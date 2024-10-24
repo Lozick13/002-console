@@ -1,0 +1,12 @@
+{
+	"name": "1",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"bin": {
+		"cmd": "./index.js"
+	},
+	"dependencies": {
+		"yargs": "^17.7.2"
+	}
+}
